@@ -1,6 +1,14 @@
 # Active_Contour_Euler_Elastica_Loss
 Official implementations of Learning Euler's Elastica Model for Medical Image Segmentation
 
+## Requirements
+Some important required packages include:
+* [Pytorch][torch_link] version >=0.4.1.
+* Python == 3.6 
+Follow official guidance to install [Pytorch][torch_link].
+
+[torch_link]:https://pytorch.org/
+
 # Notes
 More details will be released latter.
 
