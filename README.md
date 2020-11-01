@@ -1,5 +1,6 @@
-# Active_Contour_Euler_Elastica_Loss
+# Active Contour Euler Elastica Loss Functions
 Official implementations of Learning Euler's Elastica Model for Medical Image Segmentation
+* A novel active contour based loss function.
 
 ## Introduction
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/ACELoss_pipeline.png) 
