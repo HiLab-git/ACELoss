@@ -4,7 +4,7 @@ Official implementations of Learning Euler's Elastica Model for Medical Image Se
 ## Introduction
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/ACELoss_pipeline.png) 
 
-* Notes: More details will be released latter.
+* Notes: More details will be released latter, the arXiv version of this paper will be available soon.
 * If you want to use these methods just as constrains (combine with dice loss or ce loss), you can use **torch.mean()** to replace **torch.sum()**.
 
 ## Requirements
