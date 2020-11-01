@@ -17,7 +17,7 @@ Follow official guidance to install. [Pytorch][torch_link].
 [torch_link]:https://pytorch.org/
 
 ## Citation
-If you find Active-Contour-Loss is useful in your research, please consider to cite:
+If you find Active Contour Based Loss Functions are useful in your research, please consider to cite:
 
 	@inproceedings{chen2019learning,
 	  title={Learning Active Contour Models for Medical Image Segmentation},
