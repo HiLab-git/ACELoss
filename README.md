@@ -1,5 +1,5 @@
 # Active Contour Euler Elastica Loss Functions
-Official implementations of Learning Euler's Elastica Model for Medical Image Segmentation.
+Official implementations of paper "Learning Euler's Elastica Model for Medical Image Segmentation".
 * Implemented a novel active contour-based loss function.
 * Reimplemented some popular active contour-based loss functions in different ways, such as 3D Active-Contour-Loss based on Sobel filter and max-and min-pool.
 
