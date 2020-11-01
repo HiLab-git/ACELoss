@@ -24,3 +24,7 @@ If you find Active-Contour-Loss is useful in your research, please consider to c
 	  pages={11632--11640},
 	  year={2019}
 	}
+
+## Other Active Contour Based Loss Functions
+* Active Contour Loss ([ACLoss](https://github.com/xuuuuuuchen/Active-Contour-Loss))
+
