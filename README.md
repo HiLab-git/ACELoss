@@ -1,6 +1,12 @@
 # Active_Contour_Euler_Elastica_Loss
 Official implementations of Learning Euler's Elastica Model for Medical Image Segmentation
 
+## Introduction
+![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/ACELoss_pipeline.png) 
+
+* Notes: More details will be released latter.
+* If you want to use these methods just as constrains (combine with dice loss or ce loss), you can use **torch.mean()** to replace **torch.sum()**.
+
 ## Requirements
 Some important required packages include:
 * [Pytorch][torch_link] version >=0.4.1.
@@ -8,11 +14,6 @@ Some important required packages include:
 Follow official guidance to install [Pytorch][torch_link].
 
 [torch_link]:https://pytorch.org/
-
-# Notes
-More details will be released latter.
-
-If you want to use these methods just as constrains (combine with dice loss or ce loss), you can use **torch.mean()** to replace **torch.sum()**.
 
 ## Citation
 If you find Active-Contour-Loss is useful in your research, please consider to cite:
