@@ -1,5 +1,5 @@
 # Active Contour Euler Elastica Loss Functions
-Official implementations of Learning Euler's Elastica Model for Medical Image Segmentation
+Official implementations of Learning Euler's Elastica Model for Medical Image Segmentation.
 * A novel active contour based loss function.
 
 ## Introduction
@@ -11,8 +11,8 @@ Official implementations of Learning Euler's Elastica Model for Medical Image Se
 ## Requirements
 Some important required packages include:
 * [Pytorch][torch_link] version >=0.4.1.
-* Python == 3.6 
-Follow official guidance to install [Pytorch][torch_link].
+* Python == 3.6. 
+Follow official guidance to install. [Pytorch][torch_link].
 
 [torch_link]:https://pytorch.org/
 
@@ -28,5 +28,5 @@ If you find Active-Contour-Loss is useful in your research, please consider to c
 	}
 
 ## Other Active Contour Based Loss Functions
-* Active Contour Loss ([ACLoss](https://github.com/xuuuuuuchen/Active-Contour-Loss))
+* Active Contour Loss. ([ACLoss](https://github.com/xuuuuuuchen/Active-Contour-Loss))
 
