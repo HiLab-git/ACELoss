@@ -5,6 +5,7 @@ Official implementations of paper: [Learning Euler's Elastica Model for Medical 
 
 ## Introduction and Some Results
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/ACELoss_pipeline.png) 
+<center>Pipeline of ACE loss</center>
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/table1.png) 
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/figure1.png) 
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/table2.png) 
