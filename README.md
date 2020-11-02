@@ -3,8 +3,12 @@ Official implementations of paper: [Learning Euler's Elastica Model for Medical 
 * Implemented a novel active contour-based loss function, a combination of region term, length term, and elastica term (mean curvature).
 * Reimplemented some popular active contour-based loss functions in different ways, such as 3D Active-Contour-Loss based on Sobel filter and max-and min-pool.
 
-## Introduction
+## Introduction and Some Results
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/ACELoss_pipeline.png) 
+![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/table1.png) 
+![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/figure1.png) 
+![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/table2.png) 
+![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/figure2.png) 
 
 * If you want to use these methods just as constrains (combining with dice loss or ce loss), you can use **torch.mean()** to replace **torch.sum()**.
 
