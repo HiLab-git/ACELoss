@@ -20,7 +20,7 @@ Follow official guidance to install. [Pytorch][torch_link].
 ## Citation
 If you find Active Contour Based Loss Functions are useful in your research, please consider to cite:
 
-	@inproceedings{chen220aceloss,
+	@inproceedings{chen2020aceloss,
 	  title={Learning Euler's Elastica Model for Medical Image Segmentation},
 	  author={Chen, Xu and Luo, Xiangde and Zhao, Yitian and Zhang, Shaoting and Wang, Guotai and Zheng, Yalin},
 	  journal={arXiv preprint arXiv:arxiv.org/submit/3446612/view},
