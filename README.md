@@ -17,8 +17,8 @@ Official implementations of paper: [Learning Euler's Elastica Model for Medical 
 
 ## Requirements
 Some important required packages include:
-* [Pytorch][torch_link] version >=0.4.1.
-* Python == 3.6.
+* [Pytorch][torch_link] version >= 0.4.1.
+* Python  >= 3.6.
 
 Follow official guidance to install. [Pytorch][torch_link].
 
