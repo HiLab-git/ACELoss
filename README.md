@@ -4,10 +4,12 @@ Official implementations of paper: [Learning Euler's Elastica Model for Medical 
 * Reimplemented some popular active contour-based loss functions in different ways, such as 3D Active-Contour-Loss based on Sobel filter and max-and min-pool.
 
 ## Introduction and Some Results
+* Pipeline of ACE loss.
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/ACELoss_pipeline.png) 
-<center>Pipeline of ACE loss</center>
+* 2D results and visualization.
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/table1.png) 
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/figure1.png) 
+* 3D results and visualization.
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/table2.png) 
 ![](https://github.com/Luoxd1996/Active_Contour_Euler_Elastica_Loss/blob/main/figure2.png) 
 
