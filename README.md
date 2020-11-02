@@ -36,8 +36,8 @@ If you find Active Contour Based Loss Functions are useful in your research, ple
 	}
 
 ## Other Active Contour Based Loss Functions
-* Active Contour Loss. ([ACLoss](https://github.com/xuuuuuuchen/Active-Contour-Loss))
-* Geodesic Active Contour Loss. [GAC](https://ieeexplore.ieee.org/document/9187860)
+* Active Contour Loss ([ACLoss](https://github.com/xuuuuuuchen/Active-Contour-Loss)).
+* Geodesic Active Contour Loss ([GAC](https://ieeexplore.ieee.org/document/9187860)).
 
 ## Acknowledgement
 * We thank Dr. Jun Ma for instructive discussion of curvature implementation.
