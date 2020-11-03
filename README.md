@@ -47,4 +47,4 @@ If you find Active Contour Based Loss Functions are useful in your research, ple
 * Geodesic Active Contour Loss ([GAC](https://ieeexplore.ieee.org/document/9187860)).
 
 ## Acknowledgement
-* We thank Dr. Jun Ma for instructive discussion of curvature implementation.
+* We thank [Dr. Jun Ma](https://github.com/JunMa11) for instructive discussion of curvature implementation and also thank [Mr. Yechong Huang](https://github.com/huohuayuzhong) for instructive help in implementations of 3D curvature, Sobel, and  Laplace operators by using PyTorch.
