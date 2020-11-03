@@ -45,6 +45,7 @@ If you find Active Contour Based Loss Functions are useful in your research, ple
 ## Other Active Contour Based Loss Functions
 * Active Contour Loss ([ACLoss](https://github.com/xuuuuuuchen/Active-Contour-Loss)).
 * Geodesic Active Contour Loss ([GAC](https://ieeexplore.ieee.org/document/9187860)).
+* Elastic-Interaction-based Loss ([EILoss](https://github.com/charrywhite/elastic_interaction_based_loss))
 
 ## Acknowledgement
 * We thank [Dr. Jun Ma](https://github.com/JunMa11) for instructive discussion of curvature implementation and also thank [Mr. Yechong Huang](https://github.com/huohuayuzhong) for instructive help during the implementation processing of 3D curvature, Sobel, and  Laplace operators.
