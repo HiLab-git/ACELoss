@@ -30,7 +30,7 @@ If you find Active Contour Based Loss Functions are useful in your research, ple
 	@inproceedings{chen2020aceloss,
 	  title={Learning Euler's Elastica Model for Medical Image Segmentation},
 	  author={Chen, Xu and Luo, Xiangde and Zhao, Yitian and Zhang, Shaoting and Wang, Guotai and Zheng, Yalin},
-	  journal={arXiv preprint arXiv arxiv.org/pdf/2011.00526.pdf},
+	  journal={arXiv preprint arXiv:2011.00526},
 	  year={2020}
 	}
 
